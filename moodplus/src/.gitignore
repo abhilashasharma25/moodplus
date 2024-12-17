@@ -1,0 +1,14 @@
+# Ignore system and editor specific files
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Ignore personal files
+*.npmrc
+*.yarnrc
+package-lock.json
